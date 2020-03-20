@@ -1,0 +1,2 @@
+# HackDiamond
+IsNotEasy
